@@ -1,4 +1,4 @@
-# : :: ::: :::: ::::: **WHITE MOUNTAIN** ::::: :::: ::: :: :
+# : :: ::: :::: ::::: :::::: **WHITE MOUNTAIN** :::::: ::::: :::: ::: :: :
  
 [![WHITE MOUNTAIN LOGO](/images/WHITE%20MOUNTAIN%20LOGO.jpg)](/download_images/WHITE%20MOUNTAIN%20LOGO.jpg)
 
@@ -10,9 +10,13 @@
 
 ## **The reason for choosing this logo**
 
-The angle bracket symbol was used to express programming and because it is one of <br>the most prominent symbols used in the HTML language used by web developers in particular. <br>that who we will be in the future. Also, the drawing of the mountain was used to express prominence and strength. <br>I thought of using this symbol because I noticed the students’ demand <br>for learning despite the difficulty of the road. <br>And by merging the two symbols, our logo was born
+---
 
-___
+The angle bracket symbol was used to express programming and because it is one of <br>the most prominent symbols used in the HTML language used by web developers in particular. <br>that who we will be in the future.
+
+Also, the drawing of the mountain was used to express prominence and strength. <br>I thought of using this symbol because I noticed the students’ demand <br>for learning despite the difficulty of the road.
+
+And by merging the two symbols, our logo was born
 
 [![description of why i chosed this logo](/images/description%20of%20why%20i%20chosed%20this%20logo.jpg)](/download_images/description%20of%20why%20i%20chosed%20this%20logo.jpg)
 
