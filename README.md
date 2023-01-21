@@ -67,7 +67,7 @@ fantastic results every time.
 [![Mockups](images/Mockups.jpg)](/download_images/Mockups.jpg)
 
 
-this is a [feedback](feedback.md) for you, feel free to write your opinion on
+this is a [feedback](feedback.md) file you can use to type me your comments, feel free using it
 
 ---
 
