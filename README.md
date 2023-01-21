@@ -10,7 +10,7 @@
 
 ## **The reason for choosing this logo**
 
----
+
 
 The angle bracket symbol was used to express programming and because it is one of <br>the most prominent symbols used in the HTML language used by web developers in particular. <br>that who we will be in the future.
 
@@ -24,7 +24,7 @@ And by merging the two symbols, our logo was born
 
 ## **Our logo can be used in a variety of ways**
 
----
+
 
 - The logo can be used in many ways here, showing that it can <br> be separated and used in different ways.
 
@@ -40,7 +40,7 @@ And by merging the two symbols, our logo was born
 
 ## **Font, Icon, Mark, Negative space**
 
----
+
   
 
 - Here you can find font type, icon,<br>
@@ -51,14 +51,14 @@ mark, and the negative space.
 
 
 ## Colors with our logo
----
+
 
 - This logo can be used with a variety of colors and gives <br>
 fantastic results every time.
 
 [![The abelty of the logo with colors](images/The%20abelty%20of%20the%20logo%20with%20colors.jpg)](/download_images/The%20abelty%20of%20the%20logo%20with%20colors.jpg)
 
----
+
 
 ## Mockups
 
