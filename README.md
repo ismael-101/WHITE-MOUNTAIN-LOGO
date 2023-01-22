@@ -5,7 +5,7 @@
 ###### made by ismael
 
 
-# **This logo is a Gift i want to give it to you <br>so have fun wail you scrol down**
+# **This logo is a Gift i want to give it to you, <br>so have fun while you scrol down**
 
 
 ## **The reason for choosing this logo**
